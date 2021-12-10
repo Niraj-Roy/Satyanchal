@@ -24,16 +24,6 @@ p {
   color: #333333;
 }
 
-span a {
-  font-size: 18px;
-  color: #cccccc;
-  text-decoration: none;
-  margin: 0 10px;
-  transition: all 0.4s ease-in-out;
-  &:hover {
-    color: #ffffff;
-  }
-}
 
 @keyframes float {
   0% {
@@ -60,8 +50,8 @@ span a {
 }
 
 .avatar {
-  width: 150px;
-  height: 150px;
+  width: 100%;
+  height: auto;
   box-sizing: border-box;
   border: 5px white solid;
   border-radius: 50%;
