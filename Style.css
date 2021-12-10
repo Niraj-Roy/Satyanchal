@@ -73,10 +73,10 @@ p {
 .suppoprt-me {
   display: inline-block;
   position: fixed;
-  bottom: 10px;
-  left: 10px;
-  width: 20vw;
-  max-width: 250px;
+  bottom: 60px;
+  left: 30px;
+  width: 50%;
+  max-width: 600px;
   min-width: 200px;
   z-index: 9;
   img {
